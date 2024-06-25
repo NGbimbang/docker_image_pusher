@@ -1,2 +1,2 @@
 nginx
-docker.io/ertagh/teamspeak3-server:arm64v8-latest-box-predownloaded
+teamspeak3-server:arm64v8-latest-box-predownloaded
