@@ -1,2 +1,2 @@
 nginx
-ertagh/teamspeak3-server:latest-box
+ertagh/teamspeak3-server:latest-box-predownloaded
