@@ -1,1 +1,1 @@
---platform linux/arm64/v8 ertagh/teamspeak3-server:latest-predownloaded
+--platform linux/arm64/v8 whyour/qinglong
